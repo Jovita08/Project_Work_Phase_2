@@ -1,4 +1,4 @@
-<H1> DATASET CREATION USING GENERATIVE ADVERSARIAL NETWORKS (GANs) </H1>
+<H1> DATASET CREATION USING GENERATIVE ADVERSARIAL NETWORK (GAN) </H1>
 Creating a Generative Adversarial Network (GAN) involves training a generator and a discriminator simultaneously, where the generator learns to generate realistic data while the discriminator learns to distinguish between real and generated data.
 
 ## ABOUT
